@@ -2,11 +2,23 @@
   font-family:
 }
 
-.title{
+.title {
   font-family: 'Anton', sans-serif;
   text-align: center;
+  font-size: 3.5vw;
+  margin-bottom: 6em;
 }
 
-.keys{
+.keys {
   display: flex;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 3.4vw;
+  justify-content: center;
+}
+
+.key {
+  text-align: center;
+  border: .2em solid black;
+  padding: .2em;
+  margin: .1em;;
 }
