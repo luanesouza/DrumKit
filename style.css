@@ -1,0 +1,12 @@
+* {
+  font-family:
+}
+
+.title{
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+}
+
+.keys{
+  display: flex;
+}
